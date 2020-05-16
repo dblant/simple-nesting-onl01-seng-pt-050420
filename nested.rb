@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:new_hash] = "new_key"
+    programmer_hash[:new_hash] = "yukihiro_matsumoto"
     programmer_hash
 end
 
